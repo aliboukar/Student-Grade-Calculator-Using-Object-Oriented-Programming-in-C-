@@ -1,4 +1,4 @@
-# Student-Grade-Calculator-Using-Object-Oriented-Programming-in-C-
+# Student-Grade-Calculator-Using-Object-Oriented-Programming-in-C++-
 Student Grade Calculator Using OOP in C++
 
 A C++ console application that calculates student grades using Object-Oriented Programming (OOP) principles such as classes, inheritance, polymorphism, and encapsulation.
